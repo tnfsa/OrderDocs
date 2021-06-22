@@ -1,1 +1,0 @@
-import{o as a,c as e,a as r}from"./app.ff4a41af.js";const l='{"title":"訂餐系統","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1624340314533}',i={},n=r('',9);i.render=function(r,l,i,t,h,o){return a(),e("div",null,[n])};export default i;export{l as __pageData};
