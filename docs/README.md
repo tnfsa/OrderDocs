@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /hero.png
+# heroImage: /hero.png
 heroText: 「美訂美當」訂餐系統
-tagline: Hero subtitle
-actionText: 立即開始 →
-actionLink: /intro/
+tagline: 「美訂美當」訂餐系統
+actionText: 閱讀文件 →
+actionLink: /intro
 features:
 - title: 好吃
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
