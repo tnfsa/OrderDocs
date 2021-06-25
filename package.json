@@ -1,16 +1,16 @@
 {
-  "name": "LunchDocs",
+  "name": "lunchdocs",
   "version": "1.0.0",
   "description": "A document for order system",
   "main": "index.js",
   "author": "Hsuan",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^0.15.4"
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-auto-sidebar": "^2.3.0"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   }
 }
