@@ -19,5 +19,5 @@ jobs:
         uses: testthedocs/github-pages-deploy-action@master
         env:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: test/build/
+          BUILD_DIR: docs/.vuepress/dist
           BUILD_SCRIPT: npm install && npm run-script build
