@@ -12,7 +12,8 @@ module.exports = {
                 children: [
                     ['/intro', '介紹']
                 ]
-            },/*
+            },
+            '/policy/',/*
             '/intro',
             {
                 title: 'Guide',
