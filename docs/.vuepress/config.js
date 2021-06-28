@@ -27,7 +27,14 @@ module.exports = {
                     ['/usage/customer/query', '介紹']
                 ]
             },
-            '/policy/',/*
+            {
+                title: '政策規範',
+                collapsable: true,
+                children: [
+                    ['/policy/EULA', '使用條款'],
+                    ['/policy/privacy', '隱私權政策']
+                ]
+            },/*
             '/intro',
             {
                 title: 'Guide',
