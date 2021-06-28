@@ -4,7 +4,7 @@ home: true
 heroText: 「美訂美當」訂餐系統
 tagline: 「美訂美當」訂餐系統
 actionText: 閱讀文件 →
-actionLink: /intro
+actionLink: /basic/intro
 features:
 - title: 好吃
   details: Minimal setup with markdown-centered project structure helps you focus on writing.

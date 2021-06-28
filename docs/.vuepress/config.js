@@ -10,7 +10,21 @@ module.exports = {
                 title: '基本介紹',
                 collapsable: true,
                 children: [
-                    ['/intro', '介紹']
+                    ['/basic/intro', '介紹']
+                ]
+            },
+            {
+                title: '使用教學 (客戶端)',
+                collapsable: true,
+                children: [
+                    ['/usage/customer/query', '搜尋商品']
+                ]
+            },
+            {
+                title: '使用教學 (商家端)',
+                collapsable: true,
+                children: [
+                    ['/usage/customer/query', '介紹']
                 ]
             },
             '/policy/',/*
